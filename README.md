@@ -108,12 +108,6 @@ To run this project locally:
 
 ## Author
 
-<b>👤 Alamin</b>
-
-- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
-- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
-- GitHub - [@CodeWithAlamin](https://github.com/CodeWithAlamin)
-
 Feel free to contact me with any questions or feedback!
 
 ## Acknowledgments
